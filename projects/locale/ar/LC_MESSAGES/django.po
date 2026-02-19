@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-15 20:06+0300\n"
+"POT-Creation-Date: 2026-02-19 03:44+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -49,7 +49,7 @@ msgstr "ملغي"
 
 #: .\projects\templates\partials\header.html:4
 msgid "Projects Management"
-msgstr "إدارة المشاريع"
+msgstr "إدارةالمشاريع"
 
 #: .\projects\templates\partials\header.html:12
 msgid "Home"
@@ -87,7 +87,7 @@ msgstr "إنشاء"
 
 #: .\projects\templates\project\delete.html:5
 msgid "Alert"
-msgstr "تنبية"
+msgstr "تنبيه"
 
 #: .\projects\templates\project\delete.html:9
 msgid "Are you sure you want to delete "
@@ -131,3 +131,9 @@ msgstr "إضافة"
 #: .\projects\templates\project\update.html:36
 msgid "Save"
 msgstr "حفظ"
+
+#: .\projects_management\urls.py:22
+msgid "Project Management"
+msgstr "إدارة المشاريع"
+
+
